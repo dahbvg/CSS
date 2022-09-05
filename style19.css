@@ -1,0 +1,32 @@
+section {
+    background-color: #f5f5dd;
+    width: 450px;
+    height: 650px;
+
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 150px;
+
+}
+
+#sq1 {
+    background: rgba(0, 0, 0, 1);
+}
+
+#sq2 {
+    background: rgba(0, 0, 0, .7);
+
+}
+
+#sq3 {
+    background: rgba(0, 0, 0, .4);
+}
+
+#sq4 {
+    background: rgba(0, 0, 0, .1);
+}

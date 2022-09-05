@@ -1,0 +1,13 @@
+.basic {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.dc {
+    background-color: blue;
+}
+
+.pp {
+    opacity: 0.4;
+}

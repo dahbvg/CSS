@@ -5,7 +5,7 @@ section {
 
 }
 
-div {
+.kwadrat {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
@@ -14,19 +14,19 @@ div {
 
 }
 
-#sq1 {
+.sq1 {
     background: rgba(0, 0, 0, 1);
 }
 
-#sq2 {
+.sq2 {
     background: rgba(0, 0, 0, .7);
 
 }
 
-#sq3 {
+.sq3 {
     background: rgba(0, 0, 0, .4);
 }
 
-#sq4 {
+.sq4 {
     background: rgba(0, 0, 0, .1);
 }

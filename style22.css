@@ -1,0 +1,15 @@
+.bgc1 {
+    background-color: blueviolet;
+}
+
+.bgc2 {
+    background-color: chartreuse;
+}
+
+.tc1 {
+    color: blue;
+}
+
+h1+h3 {
+    color: red;
+}

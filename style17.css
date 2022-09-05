@@ -10,3 +10,8 @@ p {
 #kolor {
     color: #ff0000;
 }
+
+h1,
+p {
+    text-align: center;
+}

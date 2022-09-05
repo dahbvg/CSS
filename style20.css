@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+}
+
+.zolty {
+    background-color: yellow;
+}
+
+.czerwony {
+    background-color: red;
+}
+
+.niebieski {
+    background-color: blue;
+}
+
+.zielony {
+    background-color: green;
+}
+
+.pomaranczowy {
+    background-color: orange;
+}
+
+.fc1 {
+    color: blanchedalmond;
+}
+
+.fc2 {
+    color: black;
+}
+
+.fc3 {
+    color: red;
+}
+
+.fc4 {
+    color: blue;
+}
+
+.fc5 {
+    color: violet;
+}

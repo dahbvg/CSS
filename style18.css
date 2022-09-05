@@ -2,29 +2,31 @@ section {
     background-color: blanchedalmond;
     width: 1000px;
     height: 900px;
+    padding: 10px;
 }
 
 h1 {
     color: red;
-    margin-bottom: 70px;
+
     font-size: 5ch;
-    margin-top: 15px;
+
 }
 
 p {
     font-size: 3ch;
-    margin-bottom: 70px;
+
 }
 
-#p1 {
+.indianred {
     color: indianred;
 }
 
-#p2 {
+.blue {
     color: blue;
 }
 
 h1,
 p {
     margin-left: 10px;
+    margin-bottom: 70px;
 }

@@ -1,0 +1,33 @@
+.box {
+    height: 150px;
+    width: 150px;
+    transition: 2s ease-out;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.horizontal {
+    background-color: red;
+}
+
+.vertical {
+    background-color: blue;
+}
+
+.both {
+    background-color: green;
+}
+
+.horizontal:hover {
+    width: 300px;
+}
+
+.vertical:hover {
+    height: 300px;
+}
+
+.both:hover {
+    width: 300px;
+    height: 300px;
+}

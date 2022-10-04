@@ -1,0 +1,23 @@
+#gallery {
+    width: 100%;
+    text-align: center;
+}
+
+figure {
+    display: inline-block;
+    width: 24%;
+    margin: 0;
+}
+
+
+figure img {
+    width: 100%;
+}
+
+.footer {
+    background-color: #f2f1ed;
+    text-align: center;
+    margin: auto;
+    font-size: 1.3em;
+    height: 100px;
+}
